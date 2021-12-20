@@ -15423,3 +15423,4 @@ Caused by: java.lang.NullPointerException
 	at scala.meta.internal.metals.ForwardingMetalsBuildClient.buildTaskFinish(ForwardingMetalsBuildClient.scala:168)
 	... 16 more
 
+[0m2021.12.20 19:33:33 WARN  resetting database: /home/lim6112j/scala/akka/scala-seed-project/.metals/metals.h2.db[0m

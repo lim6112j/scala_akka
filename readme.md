@@ -14,3 +14,4 @@ lazy val root = (project in file("."))
   )
 ```
 
+# How to run

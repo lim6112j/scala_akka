@@ -1,6 +1,4 @@
 #FileLock
-#Mon Dec 20 11:19:48 KST 2021
-server=localhost\:43195
-hostName=localhost
+#Mon Dec 20 19:33:33 KST 2021
 method=file
-id=17dd5a34b543022e3ac9b7969fceb8b8c51b674725f
+id=17dd76754e7d59ced6068d6e63c07d2f58a136b5efa
