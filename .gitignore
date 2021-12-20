@@ -1,2 +1,6 @@
 /.bsp/
 target/
+*.class
+project/
+.metals/
+*.log
