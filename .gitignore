@@ -5,3 +5,4 @@ project/
 .metals/
 *.log
 .bloop
+.metals/
